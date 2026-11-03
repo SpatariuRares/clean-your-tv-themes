@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/spatariurares/clean-your-tv-themes",
+  "themes": [
+    {
+      "id": "github:spatariurares/clean-your-tv-themes:craciun",
+      "title": "Crăciun la Brașov",
+      "themeVersion": "1.0.0",
+      "path": "distributions/craciun/1.0.0/cytv-theme.json",
+      "sha256": "0bcba3e07170541fe706dbb1d36a21f319ec3ffa6f40e9735461ea719b981fde"
+    }
+  ]
+}
