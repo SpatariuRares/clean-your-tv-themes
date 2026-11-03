@@ -1,0 +1,11 @@
+Crăciun la Brașov — credits
+
+Wallpaper (assets/wallpaper.jpg): original image generated for this theme on 2026-11-03 with
+OpenAI Codex image generation, from a prompt written by the author. AI-generated; it depicts
+an imagined interior and a stylised view of Brașov (Tâmpa, Black Church). License: CC BY 4.0
+(see LICENSE.txt).
+
+Preview (assets/preview.jpg): screenshot of the toolkit browser preview with this theme, showing
+the toolkit's demo app icons (see the toolkit's DEMO-ICON-CREDITS.txt / DEMO-ICON-LICENSE.txt).
+
+Theme CSS and theme.json: Rares, MIT License.
