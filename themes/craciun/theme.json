@@ -8,7 +8,7 @@
     "name": "Rares",
     "url": "https://github.com/SpatariuRares"
   },
-  "themeVersion": "1.0.0",
+  "themeVersion": "1.1.0",
   "layout": {
     "preset": "dock-grid",
     "columns": 5,
@@ -26,8 +26,8 @@
       "id": "wallpaper",
       "path": "assets/wallpaper.jpg",
       "mediaType": "image/jpeg",
-      "width": 1920,
-      "height": 1080
+      "width": 3840,
+      "height": 2160
     },
     {
       "id": "preview",
